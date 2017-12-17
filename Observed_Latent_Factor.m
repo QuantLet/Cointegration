@@ -1,8 +1,5 @@
+%Code generated in cooperation with Prof. Cathy Chen
 
-%    Stock and Watson (1988) "Testing for common trends" Journal of
-%    American Statistical Association. Vol.83, 1097-1107
- 
- 
 clear all;
 clc;
 tic
